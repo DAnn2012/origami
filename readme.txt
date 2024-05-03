@@ -6,7 +6,7 @@ Tags: blog, photography, portfolio, one-column, custom-background, custom-colors
 
 Tested up to: 6.5
 Requires at least: 4.7
-Requires PHP: 5.6.20
+Requires PHP: 7.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
