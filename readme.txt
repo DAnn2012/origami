@@ -93,6 +93,12 @@ This theme makes use of the [SiteOrigin Settings Framework](https://github.com/s
 
 == Changelog ==
 
+= 1.10.2 - 12 February 2024 =
+* Updated SiteOrigin Settings framework.
+* Updated Tested up to tag.
+* Added `siteorigin_web_font_url` support.
+* Developer: PHP CS improvements.
+
 = 1.10.1 - 15 August 2022 =
 * Calendar Widget: Updated styling for new markup.
 * Allowed HTML in Copyright Text field.
