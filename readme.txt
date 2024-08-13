@@ -4,7 +4,7 @@ Contributors: siteorigin
 
 Tags: blog, photography, portfolio, one-column, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, sticky-post, theme-options, threaded-comments, translation-ready
 
-Tested up to: 6.5
+Tested up to: 6.6
 Requires at least: 4.7
 Requires PHP: 7.0.0
 License: GPLv2 or later
